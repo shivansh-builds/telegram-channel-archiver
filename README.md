@@ -5,7 +5,7 @@ While exploring Telegram, I came across a channel that contained a complete Data
 
 As online communities and educational resources can disappear, become inactive, or restrict access over time, I decided to build a reliable way to preserve the content for offline access and long-term reference.
 
-This inspired me to build **Telegram Ultra Export**, a Python-based utility powered by **Telethon** that creates a complete local archive of Telegram channels.
+This inspired me to build **Telegram Ultra Export**, a Python-based utility powered by **Telethon** that creates a complete local archive of Telegram channels. 
 
 Beyond solving my own need for archiving content, the project also became an opportunity to explore asynchronous programming, Telegram APIs, concurrency, and parallel file downloading in Python.
 
