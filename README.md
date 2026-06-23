@@ -1,4 +1,5 @@
 Telegram Ultra Export is a high-performance Telegram channel archiver built with Python and Telethon. It enables users to create a complete local backup of channel messages and media, including photos, videos, audio files, and documents. The tool leverages asynchronous programming and parallel workers to provide fast and efficient downloads while automatically organizing content into separate folders and preventing duplicate downloads.
+
 # Idea Behind This Project 
 
 While exploring Telegram, I came across a channel that contained a complete Data Analytics learning series that is normally distributed through dedicated platforms and paid courses. Since I found the material extremely valuable for my learning journey, I wanted to make sure I wouldn't lose access to it in the future.
