@@ -35,6 +35,3 @@ Telegram Ultra Export allows users to:
 * asyncio
 * tqdm
 
-## Disclaimer
-
-This project is intended for personal backup, archival, and educational purposes. Users are responsible for complying with Telegram's Terms of Service and respecting content ownership and applicable laws.
